@@ -1,7 +1,7 @@
 # Tree of Human Mobility
 
 **Authors:**  
-Ghazal Mashhadiagha 
+Ghazal Mashhadiagha, 
 Professor Brian L. Davis  
 
 ## Description
